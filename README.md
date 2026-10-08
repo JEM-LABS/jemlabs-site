@@ -22,7 +22,7 @@ Import this repository, choose **Other** as the framework, leave the build comma
 
 ## Brand
 
-Charcoal #151B1B, warm off-white #F5F3ED, teal #66E5D1, coral #F4A087. Arial/Helvetica sans-serif typography with compact headings and comfortable body text. The mark assembles three modules and an open diagonal fourth module, suggesting a system being built and tested. Product monograms are editorial identifiers, not claimed official product logos.
+Warm charcoal #211C1B, ivory #F7F0E6, muted peach #E8AD91, burnt orange #B64A2A, wine #641E35, sand #EEE2D2, muted text #BDB0A6, and border #493C37. Arial/Helvetica sans-serif typography with compact headings and comfortable body text. The mark assembles three modules and an open diagonal fourth module, suggesting a system being built and tested. Product monograms are editorial identifiers, not claimed official product logos.
 
 ## Remaining content
 
