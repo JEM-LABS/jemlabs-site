@@ -26,6 +26,5 @@ Charcoal #151B1B, warm off-white #F5F3ED, teal #66E5D1, coral #F4A087. Arial/Hel
 
 ## Remaining content
 
-- Exubis: the brief does not describe its function or audience, and the public site could not be read. Replace the deliberately neutral positioning and description with verified product copy before launch.
 - TaskDizzle: replace the non-interactive “App Store link coming soon” status and adjacent TODO with a real link once the URL is available. Its main CTA already links to taskdizzle.online.
 - Confirm Privacy and Terms reflect the final hosting setup and company practices before launch.
