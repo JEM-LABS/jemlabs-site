@@ -5,3 +5,6 @@ nav{flex-wrap:wrap}.product-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.
 
 /* Official product logos */
 .product-logo{display:block;object-fit:contain;flex-shrink:0}.exubis-logo{width:126px;height:40px;object-position:left center}.taskdizzle-logo{width:58px;height:58px;border-radius:14px}.product-top{min-height:58px}@media(max-width:380px){.exubis-logo{width:112px;height:auto}.taskdizzle-logo{width:52px;height:52px}}
+
+/* Product cards intentionally lead with product names rather than logos. */
+.product-top-clean{justify-content:flex-end;min-height:auto;margin-bottom:30px}
